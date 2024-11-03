@@ -20,3 +20,5 @@ Importing an image from the computer:
 
 Need to upload a file and then copy the name of it in the repository, and then paste it here.
 
+https://github.com/Stavoh/Trial-1/blob/main/ינואר%201950%20שלג%20בתל%20מונד%201%20.jpeg
+
