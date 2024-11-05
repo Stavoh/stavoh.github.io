@@ -1,5 +1,7 @@
 # Bio
 
+---
+
 ## Personal Information
 
 **28** y.o.
