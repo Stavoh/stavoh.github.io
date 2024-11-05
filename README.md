@@ -1,9 +1,6 @@
 # Bio
 
----
-
 ## Personal Information
----
 
 **28** y.o.
 
@@ -11,19 +8,22 @@ Based in **Israel**
 
 Interested in the field of research of **longevity**
 
-## Subtitle
+---
 
-Hello everybody. This is a trial.
+## Academic Education
 
-**emphasized** and _italic_ texts
+_Present_ - M.Sc. in Life Sciences, ExCLS Program, Weizmann Institute of Science, Rehovot, Israel
 
-Here is some lists:
+_2021-2023_ - B.Sc. in Molecular Biology, Neuroscience Program, Ariel University, Ariel, Israel
 
-1. Dog
-2. Cat
-3. Mouse
+---
 
-Adding an image by copying image address:
+## Hobbies
+
+Thru-hiking | Camping | Climbing | Calisthenics | Dancing | Cooking | Movies
+
+---
+
 
 ![](https://i.natgeofe.com/n/7bd4e32f-9caf-4f2f-96f9-aa456d99896f/MM10120_230829_14318.jpg?w=2880&h=1920)
 
