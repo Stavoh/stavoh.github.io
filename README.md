@@ -10,7 +10,6 @@ Based in **Israel**
 
 Interested in the field of research of **longevity**
 
----
 
 ## Academic Education
 
@@ -18,16 +17,16 @@ _Present_ - M.Sc. in Life Sciences, ExCLS Program, Weizmann Institute of Science
 
 _2021-2023_ - B.Sc. in Molecular Biology, Neuroscience Program, Ariel University, Ariel, Israel
 
----
-
 ## Hobbies
 
-Thru-hiking | Camping | Climbing | Calisthenics | Dancing | Cooking | Movies
+Thru-hiking | Camping | Climbing | Calisthenics | Dancing | Cooking | Movies | Landscape Photography
 
 ---
 
+Here are some sceneries that I captured:
 
-![](https://i.natgeofe.com/n/7bd4e32f-9caf-4f2f-96f9-aa456d99896f/MM10120_230829_14318.jpg?w=2880&h=1920)
+![DSC04552](https://github.com/user-attachments/assets/1f77bbfc-ea2f-498d-8166-965f9a562ba9)
+
 
 Importing an image from the computer:
 
