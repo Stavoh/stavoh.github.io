@@ -1,8 +1,8 @@
 # Stav Ohayon
 ---
+<a href="https://github.com/Stavoh/">My Github profile.</a><br>
 Python instructor: <a href="https://szabgab.com/">Gábor Szabó.</a><br>
-Current lab: <a href="https://www.weizmann.ac.il/mcb/valery/">Valery's Lab at WIS.</a><br>
-<a href="https://github.com/Stavoh/">My Github profile.</a>
+Currently enrolled in <a href="https://www.weizmann.ac.il/mcb/valery/">Valery's Lab at WIS</a> where we research the role of cell senescence in aging and aging-related diseases to develop new therapeutic approaches.
 ## Personal Information
 
 **28** y.o.
