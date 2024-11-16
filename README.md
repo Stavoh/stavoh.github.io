@@ -44,11 +44,3 @@ Navajo tribal lands, Antelope Canyon, Page, Utah, US.
 Oasis, Neot Smadar Lake, Neot Smadar, Arava Desert, Israel.
 
 ---
-
-## Current Lab
-
-<a href="https://www.weizmann.ac.il/mcb/valery/">Valery's Lab at WIS</a><br>
-
-## Python Instructor
-
-<a href="https://szabgab.com/">Gábor Szabó</a>
