@@ -1,6 +1,6 @@
 # Stav Ohayon
 ---
-Python instructor: <a href="https://szabgab.com/">Gábor Szabó.</a>
+Python instructor: <a href="https://szabgab.com/">Gábor Szabó.</a><br>
 Current lab: <a href="https://www.weizmann.ac.il/mcb/valery/">Valery's Lab at WIS.</a><br>
 <a href="https://github.com/Stavoh/">My Github profile.</a>
 ## Personal Information
