@@ -34,8 +34,6 @@ Sunset over Half Dome, Glacier point, Yosemite Valley, CA, US.
 
 Black bear walking on a a fallen tree, El Capitan, Yosemite Valley, CA, US.
 
-<img width="554" alt="DSC09193" src="[https://github.com/user-attachments/assets/4d82cca0-15e8-41ef-91c8-c86c21306270](https://github.com/user-attachments/assets/a552fa55-098e-431c-9b3d-0cb3b28ec4e1)">
-
 ![DSC09193](https://github.com/user-attachments/assets/a552fa55-098e-431c-9b3d-0cb3b28ec4e1)
 
 Navajo tribal lands, Antelope Canyon, Page, Utah, US.
