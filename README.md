@@ -36,14 +36,9 @@ Black bear walking on a a fallen tree, El Capitan, Yosemite Valley, CA, US.
 
 <img width="554" alt="Screenshot 2024-11-17 at 11 36 13" src="https://github.com/user-attachments/assets/d89a060f-fc7f-4913-b597-e105366b0473">
 
-![DSC09193](https://github.com/user-attachments/assets/a552fa55-098e-431c-9b3d-0cb3b28ec4e1)
-
 Navajo tribal lands, Antelope Canyon, Page, Utah, US.
 
 <img width="554" alt="Screenshot 2024-11-17 at 11 36 53" src="https://github.com/user-attachments/assets/ddb11255-ab9a-43ce-9065-e4de6487135c">
-
-
-![85bf359f-3c3b-4ec1-b720-78c53ffe5d51](https://github.com/user-attachments/assets/de81cc05-4a95-4694-aaf7-5ff1cfdcaf34)
 
 Oasis, Neot Smadar Lake, Neot Smadar, Arava Desert, Israel.
 
