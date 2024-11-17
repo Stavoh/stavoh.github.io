@@ -26,7 +26,7 @@ Thru-hiking | Camping | Climbing | Calisthenics | Dancing | Cooking | Movies | L
 
 Here are some sceneries that I captured:
 
-<img src="/Users/stavohayon/Downloads/Screenshot 2024-11-05 at 16.32.51.png" alt="Sunset over Half Dome, Glacier point, Yosemite Valley, CA, US." width="500">
+<img src="/Users/stavohayon/Pycourse/lowres1" alt="Sunset over Half Dome, Glacier point, Yosemite Valley, CA, US." width="500">
 
 <img width="1107" alt="Screenshot 2024-11-05 at 16 32 51" src="https://github.com/user-attachments/assets/604f6792-7f3a-4ba0-b877-12410d4c9fcc">
 
