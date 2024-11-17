@@ -28,6 +28,7 @@ Here are some sceneries that I captured:
 
 <img width="553.5" alt="Screenshot 2024-11-05 at 16 32 51" src="https://github.com/user-attachments/assets/604f6792-7f3a-4ba0-b877-12410d4c9fcc">
 
+<img width="553.5" alt="Sunset over Half Dome, Glacier point, Yosemite Valley, CA, US." src="https://github.com/user-attachments/assets/604f6792-7f3a-4ba0-b877-12410d4c9fcc">
 
 Sunset over Half Dome, Glacier point, Yosemite Valley, CA, US.
 
