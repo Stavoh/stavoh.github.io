@@ -30,6 +30,10 @@ Here are some sceneries that I captured:
 
 Sunset over Half Dome, Glacier point, Yosemite Valley, CA, US.
 
+<img width="554" alt="Screenshot 2024-11-17 at 11 41 13 Large" src="https://github.com/user-attachments/assets/87216dd4-cafe-498d-80e6-ae42afd1092c">
+
+![Screenshot 2024-11-17 at 11 42 06](https://github.com/user-attachments/assets/cc35c771-8283-4423-a039-19b6d5293f51)
+
 <img width="554" alt="Screenshot 2024-11-05 at 15 35 20" src="https://github.com/user-attachments/assets/4d82cca0-15e8-41ef-91c8-c86c21306270">
 
 Black bear walking on a a fallen tree, El Capitan, Yosemite Valley, CA, US.
